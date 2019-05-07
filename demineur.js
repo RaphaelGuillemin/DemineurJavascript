@@ -666,4 +666,4 @@ var testDemineur = function(colormap) {
 
 
 // Decommenter ci-dessous pour jouer au jeu
-//demineur(5,3,2);
+demineur(10,10,10);
